@@ -1,2 +1,2 @@
-# Learning_Python
-Exercises &amp; Notes
+# Python_Data_Structures_&_Algorithm
+Algorithm_Exercises_Solutions
